@@ -21,16 +21,16 @@ Data source and variable descriptions can be found [here](https://www.kaggle.com
 The plots below seem to suggest that male patients are more likely to have a heart disease (HD) than female patients. Similarly, the second plot also suggests that male patients are subject to higher levels of chest pain than female patients; howver, this is probably due to the imbalance in the dataset between males and femaale patients. Moreover, if we take a look at the chest pain levels and its relationship with HD presence, we see something quite interesting. Conventional wisdom suggests that if a patient is suffering from higher levels of chest pain, then perhaps they might be more likely to have a HD. However, this is may not be the case; the 3<sup>rd</sup> plot shows that there are more patients with HD at lower levels of chest pain.
 
 <p float="left">
-<img src="imgs/gender plot.png"  width = 400/>
+<img src="imgs/gender plot.png"  width = 310/>
 
-<img src="imgs/chest pain levels.png"  width = 400/>
+<img src="imgs/chest pain levels.png"  width = 310/>
 
-<img src="imgs/chest pain hd.png"  width = 400/>
+<img src="imgs/chest pain hd.png"  width = 310/>
 </p>
 
  Additionally, taking a look at the following plot below, it would appear that heart disease might be more common amongst older patients.
 
-<img src="imgs/age boxplot.png"  width =350/>
+<img src="imgs/age boxplot.png"  width = 400/>
 
 
 ## Modeling and Results 
