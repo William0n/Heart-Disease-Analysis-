@@ -1,9 +1,9 @@
 # Heart-Disease-Analysis: Project Goals 
-* Determine whether or not a patient's gender increases/decreases their odds of a heart attack 
-* Analyze the relationship between chest pain discomfort and odds of a heart attack
-* Do older people have greater odds of heart disease
+* Determine whether or not a patient's gender increases/decreases their odds of hvaing heart disease
+* Analyze the relationship between chest pain discomfort and odds of having a heart disease
+* Is age a significant factor in determining if a patient has heart disease
 * Do patients with higher cholesteral levels have a higher chance of heart disease
-* Are patients with higher levels of chest pain more likelye to suffer from heart disease
+* Are patients with higher levels of chest pain more likely to suffer from heart disease
 
 ## Data Cleaning
 Unfortunately, the dataset collected from Kaggle was not as clean as I hoped for. Thus, the following changes below were made to the data: 
@@ -43,4 +43,4 @@ Below shows a summary of the model:
 
 ## Conclusion
 
-
+Overall, the results from the model summary seems to mostly agree with my previous observations from the plot. 
