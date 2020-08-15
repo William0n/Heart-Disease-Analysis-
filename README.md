@@ -1,6 +1,5 @@
 # Heart-Disease-Analysis: Project Goals 
-* Determine whether or not a patient's gender increases/decreases their odds of hvaing heart disease
-* Analyze the relationship between chest pain discomfort and odds of having a heart disease
+* Determine whether or not a patient's gender increases/decreases their odds of having heart disease
 * Is age a significant factor in determining if a patient has heart disease
 * Do patients with higher cholesteral levels have a higher chance of heart disease
 * Are patients with higher levels of chest pain more likely to suffer from heart disease
@@ -43,4 +42,7 @@ Below shows a summary of the model:
 
 ## Conclusion
 
-Overall, the results from the model summary seems to mostly agree with my previous observations from the plot. 
+Overall, the results from the model summary seems to mostly agree with my previous observations from the plots. At a significance level of 5%, the results seem to suggest that age doesn't significantly increase a patients odds of having a heart disease(as shown by a high p-value of 0.972). However, this may also be due to the nature of the data; most of of the patients in this study were in their mid adult lives (50-60). In addition, the model summary table suggests that a patient's gender seems to have a significant effect on their odds of heart disease. In fact, if a patient is male, then they were more likely to have a heart disease. 
+
+On the other hand, patients with higher levels of chest pain did not have greater chances of having a heart disease. To me, this was the most interesting result from the study as it was entirely different from what Iwas expecting when I first saw the data. Next, I took a look at the effects from a patient's cholesteral levels. It would appear that a patient's cholesteral level does increase their odds of having a heart disease by about 0.5% . But like the age variable, the increase is not significant at the 5% level and as a result, cholesteral shouldn't have much impact on the odds of a patient having a heart disease.
+
